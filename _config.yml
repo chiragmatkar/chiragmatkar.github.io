@@ -1,0 +1,8 @@
+title: chiragmatkar.github.io
+description: Bio-Hacker, Algorithmic Trader , Adventurer , Fitness Enthusiast
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
